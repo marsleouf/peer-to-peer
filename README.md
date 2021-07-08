@@ -13,4 +13,12 @@
 - Create connection between PC and phone
 - Peer to Peer on private network
 - Encryption via tunnel ssh (python)
-- add secutity : certificate, hash, ...
+- Create FTP app
+- add security : certificate, double hash, ...
+
+## Tech used
+
+- Termux app on smartphone
+- Bash
+- Python
+- 
